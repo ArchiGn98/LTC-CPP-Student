@@ -1,0 +1,24 @@
+{
+    "orderID": "21",
+    "shopperName": "Artur Hnoinskyi",
+    "shopperEmail": "ahnoinskyi@luxoft.com",
+    "contents": [
+        {
+            "orderID": "12345",
+            "productName": "Product 1",
+            "quantity": "1"
+        }
+    ],
+    "contents2": [
+        {
+            "productID": "223",
+            "productName": "Product 2",
+            "quantity": "1"
+        },
+        {
+            "productID": "456498",
+            "productName": "Product 3",
+            "quantity": "2"
+        }
+    ]
+}
