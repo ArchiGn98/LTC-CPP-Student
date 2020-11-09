@@ -20,7 +20,6 @@ unsigned long long operator "" b(const char* str)
 {
 	unsigned long long result = 0;
 	size_t size = strlen(str);
-	std::cout << "size: " << size << std::endl;
 
 	for (size_t i = 0; i < size; ++i)
 	{
